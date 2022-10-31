@@ -5,17 +5,17 @@
 I am a Full Stack Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Android+Developer+with+2%2B+Years+Experience;Passionate+about+Making+Mobile+Applications;Freelnancer;Open+sourse+contributer)](https://git.io/typing-svg)
+ <img  align="right" alt="Coding" width="300"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>&nbsp;
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Wisalkhan09&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wkbreaker&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 <a align="center">
- <img alt="GitHub followers" src="https://img.shields.io/github/followers/Wisalkhan09?label=Github%20followers&style=for-the-badge" >
+ <img alt="GitHub followers" src="https://img.shields.io/github/followers/wkbreaker?label=Github%20followers&style=for-the-badge" >
   </a> 
 
 ### How to reach me: 
 <a href="mailto: Wkdeveloper63gmail.com">
-<img src="https://img.shields.io/badge/-Wkdeveloper63gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/wisalkhan09/">   <img src="https://img.shields.io/badge/@Wisal_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/wisal-khan-641555232"><img src="https://img.shields.io/badge/Wisal Khan-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://naseerdev.000webhostapp.com/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-Wkdeveloper63gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/wisalkhan09/">   <img src="https://img.shields.io/badge/@Wk_Breaker-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/wisal-khan-641555232"><img src="https://img.shields.io/badge/Wk Breaker -%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://naseerdev.000webhostapp.com/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
@@ -48,7 +48,7 @@ I am a Full Stack Android Developer <img src="https://media.giphy.com/media/WUlp
 
 
  <div align=center>
- <img src="https://github-readme-stats.vercel.app/api?username=Wisalkhan09&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+ <img src="https://github-readme-stats.vercel.app/api?username=wkbreaker&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
  </div>
 
 
@@ -57,25 +57,25 @@ I am a Full Stack Android Developer <img src="https://media.giphy.com/media/WUlp
 ### My Languages: 🕶️:
 <div align=center>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisalkhan09&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkbreaker&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </div>
 
  
 ### Github Streak: ❤️‍🔥 
  <div align=center>
   
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wisalkhan09&theme=shades-of-purple)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wkbreaker&theme=shades-of-purple)](https://git.io/streak-stats)
   
 </div>
 
 
 ### Github Activity: 🎆
  
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Wisalkhan09&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=wkbreaker&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
 
 -----
-Credits: [Wisal Khan](https://github.com/naseerx)
+Credits: [WK_Breaker](https://github.com/wkbreaker)
 
 Last Edited on: 30/09/2021
 
