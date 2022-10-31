@@ -15,7 +15,7 @@ I am a Full Stack Android Developer <img src="https://media.giphy.com/media/WUlp
 
 ### How to reach me: 
 <a href="mailto: Wkdeveloper63gmail.com">
-<img src="https://img.shields.io/badge/-Wkdeveloper63gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/wisalkhan09/">   <img src="https://img.shields.io/badge/@Wk_Breaker-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/wisal-khan-641555232"><img src="https://img.shields.io/badge/Wk Breaker -%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://naseerdev.000webhostapp.com/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-Wkdeveloper63gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/wisalkhan09/">   <img src="https://img.shields.io/badge/@Wk_Breaker-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/wisal-khan-641555232"><img src="https://img.shields.io/badge/Wk Breaker -%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
 
 ### Current Status Quo:
 
